@@ -25,4 +25,4 @@ for (let i = 0; i <= 11; i++) {
 })
 
     //All images taken from unsplash.com
-  //Completes Assignment
+    //Completes Assignment
