@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    display: grid;
+    margin: 8px;
+    background-color: cadetblue;
+}
+
+img{
+    width: auto;
+    height: 250px;
+    padding: 1%;
+    border-radius: 50px;
+}
+
+div {
+    display: block;
+    padding: 2%;
+    font-size: 105%;
+}
+
+.increase{
+    transform: scale(1.5);
+}
+
+.grey:hover{
+    filter: grayscale(100%);
+}
+
+/*Completes Assignment*/
